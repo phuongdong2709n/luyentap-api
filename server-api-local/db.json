@@ -1,0 +1,13 @@
+
+{
+    "users":[
+        {"id":111, "username":"chung", "password":"123"},
+        {"id":222, "username":"devmaster", "password":"123"},
+        {"id":333, "username":"chung123", "password":"123"}
+    ],
+    "students":[
+        {"studentId":"SV001", "studentName":"Nguyên văn A" , "age":"20"},
+        {"studentId":"SV002", "studentName":"Nguyên văn B" , "age":"21"},
+        {"studentId":"SV003", "studentName":"Nguyên văn C" , "age":"22"}
+    ]
+}
